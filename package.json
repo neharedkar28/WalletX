@@ -1,0 +1,8 @@
+{
+  "name": "walletx",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WalletX personal digital wallet and finance dashboard",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=20" }
+}
