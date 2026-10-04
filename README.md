@@ -1,6 +1,8 @@
 # WalletX
 
-WalletX is a responsive digital wallet and personal finance prototype. It includes an HTTP JSON API, account registration and login, a persistent local JSON data store, a seeded demo account, and the pages shown in the supplied design references.
+WalletX is a Digital Wallet Management System inspired by popular digital payment platforms like Google Pay and PhonePe. It provides common digital wallet features such as transaction management, balance tracking, transaction history, and secure payment management.
+Along with these standard features, WalletX introduces additional and unique features that are not commonly available in GPay and PhonePe, making the system more flexible for personal and shared expense management. These include separate Credit and Debit transaction views, monthly Credit and Debit summaries, Group Expense Division for splitting expenses among multiple users, transaction categorization, detailed financial activity tracking, and other personalized wallet-management features.
+The project aims to provide an organized, user-friendly, and feature-rich digital wallet experience while extending the functionality of traditional digital payment applications.
 
 ## Run locally
 
@@ -16,13 +18,22 @@ Choose **Continue with demo account** on the login screen to open an account wit
 
 ## Included features
 
-- Wallet balance, recent activity, add money, peer-to-peer WalletX transfers, merchant payment entries, and bill entries
-- Monthly credit/debit totals, net flow, transaction counts, and a six-month comparison chart
-- Category analysis and monthly limits with 90% and exceeded alerts
-- Smart transaction filters for category, minimum amount, and month
-- Repeated payment pattern detection and user-created recurring reminders
-- Group expense splits and a what-if savings calculator
-- Profile and masked bank account details
+User Registration and Login
+Digital Wallet and Balance Management
+Credit and Debit Transaction Management
+Separate Credit and Debit Transaction Lists
+Monthly Total Credit and Total Debit Summary
+Complete Transaction History
+Transaction Categorization
+Add, Edit and Delete Transactions
+Group Expense Division – split expenses among multiple users
+Shared Expense Tracking
+Monthly Financial Activity Tracking
+Income and Expense Monitoring
+Recent Transactions Dashboard
+Personalized Wallet Management
+Secure and User-Friendly Interface
+Additional features beyond the commonly available functionality of traditional digital payment applications.
 
 ## API overview
 
