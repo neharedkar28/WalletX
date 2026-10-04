@@ -1,7 +1,9 @@
 # WalletX
 
 WalletX is a Digital Wallet Management System inspired by popular digital payment platforms like Google Pay and PhonePe. It provides common digital wallet features such as transaction management, balance tracking, transaction history, and secure payment management.
+
 Along with these standard features, WalletX introduces additional and unique features that are not commonly available in GPay and PhonePe, making the system more flexible for personal and shared expense management. These include separate Credit and Debit transaction views, monthly Credit and Debit summaries, Group Expense Division for splitting expenses among multiple users, transaction categorization, detailed financial activity tracking, and other personalized wallet-management features.
+
 The project aims to provide an organized, user-friendly, and feature-rich digital wallet experience while extending the functionality of traditional digital payment applications.
 
 ## Run locally
