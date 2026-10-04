@@ -18,22 +18,22 @@ Choose **Continue with demo account** on the login screen to open an account wit
 
 ## Included features
 
-User Registration and Login
-Digital Wallet and Balance Management
-Credit and Debit Transaction Management
-Separate Credit and Debit Transaction Lists
-Monthly Total Credit and Total Debit Summary
-Complete Transaction History
-Transaction Categorization
-Add, Edit and Delete Transactions
-Group Expense Division – split expenses among multiple users
-Shared Expense Tracking
-Monthly Financial Activity Tracking
-Income and Expense Monitoring
-Recent Transactions Dashboard
-Personalized Wallet Management
-Secure and User-Friendly Interface
-Additional features beyond the commonly available functionality of traditional digital payment applications.
+a. User Registration and Login
+b. Digital Wallet and Balance Management
+c. Credit and Debit Transaction Management
+d. Separate Credit and Debit Transaction Lists
+e. Monthly Total Credit and Total Debit Summary
+f. Complete Transaction History
+g. Transaction Categorization
+h. Add, Edit and Delete Transactions
+i. Group Expense Division – split expenses among multiple users
+j. Shared Expense Tracking
+k. Monthly Financial Activity Tracking
+l. Income and Expense Monitoring
+m. Recent Transactions Dashboard
+n. Personalized Wallet Management
+o. Secure and User-Friendly Interface
+p. Additional features beyond the commonly available functionality of traditional digital payment applications.
 
 ## API overview
 
